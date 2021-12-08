@@ -1,0 +1,19 @@
+body{
+    background-color: red;
+}
+
+.container{
+    margin: 0 auto;
+    width: 1275px;
+    height: 100%;
+}
+
+section{
+    background-color: grey;
+    height: 900px;
+}
+
+p{
+    padding: 25px;
+    color: white;
+}
